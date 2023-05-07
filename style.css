@@ -1,0 +1,70 @@
+body{
+    background-color: #212529;
+    color: rgb(216, 203, 203);
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+    
+}
+.box{
+    text-align: center;
+    /* padding:  ; */
+    margin: 5% 20%;
+    background-color: #212529;
+    border: solid;
+    border-radius: 0% ;
+    border-color: #cdd2dd;
+}
+.box1{
+    height: 50px;
+}
+
+/* .box_input{
+    height: 200px;
+    font-size: 100px;
+} */
+
+h1{
+    display: inline-block;
+    margin: 0%;
+    height: 15%
+    /* box-shadow: 0 0 20px white; */
+
+ 
+}
+.feature1{
+    /* color: green; */
+    background-color: green;
+}
+.feature2{
+    /* color: black; */
+    background-color: rgb(243, 74, 74);
+}
+span{
+    margin: 0 5px;
+    display: inline-block;
+    font-size: 30px;
+}
+.green{
+    color: #5d6dbc;
+}
+.red{
+    color: rgb(219, 55, 55);
+}
+.score{
+    background-color: #cdd2dd;
+    height: 200px;
+    padding: 3%;
+    border: solid;
+    border-color: #212529;
+}
+.score_box{
+    padding: 0 20%;
+    color: black;
+    
+}
+.score_box h1{
+    /* height: 500px; */
+    /* font-weight: 700; */
+    margin: 30px;
+}
